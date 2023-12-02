@@ -1,3 +1,2 @@
 #gotravwamena
-#gotravwamena
 #update-template
