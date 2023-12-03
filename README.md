@@ -1,29 +1,29 @@
-#gotravwamena
-#update-template
+#GOtravwamenapapua <br>
+ ✅ Update-template
 
-Website GOTRAV WAMENA [gotravwamena.com]
+#Website GOTRAV WAMENA [gotravwamena.com]
 
-github pages: https://melpenyogi.github.io/gotravwamena/
+✅ github pages: https://melpenyogi.github.io/gotravwamena/
 
-TODOS
-✅ folder images : Baground video
-✅ Ubah Menu-menu
+TODOS <br>
+⚠️ folder images : Bg video <br>
+⚠️ Ubah Menu-menu <br>
 
-PACKAGES Awesome Packages
-✅ Menambah Icon whatsApp
+PACKAGES Awesome Packages <br>
+⚠️Menambah Icon whatsApp <br>
 
-BOOKING Online Booking
-✅ Menabahkan Booking WhatsApp
+BOOKING Online Booking <br>
+⚠️ Menabahkan Booking WhatsApp <br>
 
-PROCESS 3 Easy Steps
-✅ Ubah Icons
+PROCESS 3 Easy Steps <br>
+⚠️ Ubah Icons
 
-Menambah Online Chats WhatsApp
-✅ Menambah Icon whatsApp : Chat
+Menambah Online Chats WhatsApp <br>
+⚠️ Menambah Icon whatsApp : Chat
 
-Contact
-✅ Ubah Alamat 
+Contact <br>
+⚠️ Ubah Alamat 
 
-Pagination buttons
-✅ Add pagination buttons on each pages : Tour Packages, Destinations, Adventures, Events.
+Pagination buttons <br>
+⚠️ Add pagination buttons on each pages : Tour Packages, Destinations, Adventures, Events.
 
