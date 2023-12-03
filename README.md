@@ -27,3 +27,7 @@ Contact <br>
 Pagination buttons <br>
 ⚠️ Add pagination buttons on each pages : Tour Packages, Destinations, Adventures, Events.
 
+(https://github.com/Melpenyogi/gotravwamena/assets/82245765/4ebca74f-b362-479f-8f4b-838cf3c1a7a4)
+
+
+
